@@ -14,3 +14,4 @@ Use this repository as a template for generating vector images of equations from
 
 # To-Do
 - Add inkscape integration to provide alternatives to `pdfcrop` and `pdf2svg`.
+- Add `.png` support with the convert command from ImageMagick or inkscape.
